@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiURL: 'http://localhost:3001',
+  apiURL: 'iprwc-backend-cg8q-ev9hy6gpb-thomasvanvelzen.vercel.app',
 };
