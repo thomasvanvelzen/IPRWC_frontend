@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiURL: 'iprwc-backend.vercel.app:3001',
+  apiURL: 'iprwcbackend-production2.up.railway.app:3000',
 };
