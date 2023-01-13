@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiURL: 'iprwcbackend-production2.up.railway.app:3000',
+  apiURL: '45.32.235.25:3006',
 };
 
 /*
